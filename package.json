@@ -1,0 +1,15 @@
+{
+  "name": "prettier-config-clc",
+  "version": "1.0.0",
+  "description": "Shareable prettier configuration",
+  "main": "index.js",
+  "keywords": [
+    "prettier",
+    "prettierconfig"
+  ],
+  "license": "ISC",
+  "repository": "https://github.com/CLCInc/prettier-config-clc",
+  "peerDependencies": {
+    "prettier": ">= 1"
+  }
+}
