@@ -1,13 +1,14 @@
 # prettier-config-clc
-Prettier Config
+
+Shareable prettier configuration.
 
 To add this file to your own project, add the following to your project's `package.json`:
 
 ```js
-  "prettier": "prettier-config-clc"
+  "prettier": "@clc_inc/prettier-config-clc"
   "devDependencies": {
     "prettier": "^1.19.1",
-    "prettier-config-clc": "git://github.com/CLCInc/prettier-config-clc.git"
+    "@clc_inc/prettier-config-clc": "^2.0.0"
   }
 ```
 

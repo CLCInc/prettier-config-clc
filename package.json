@@ -1,8 +1,11 @@
 {
-  "name": "prettier-config-clc",
+  "name": "@clc_inc/prettier-config-clc",
   "version": "1.0.0",
   "description": "Shareable prettier configuration",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "prettier",
     "prettierconfig"
