@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CLCInc/prettier-config-clc/compare/v2.0.0...v2.0.1) (2020-08-17)
+
+
+### Bug Fixes
+
+* set trailingComma: none to override prettier v2 default ([#4](https://github.com/CLCInc/prettier-config-clc/issues/4)) ([81c2bd0](https://github.com/CLCInc/prettier-config-clc/commit/81c2bd0fdcd5ca3e601f8093ac94aa085cd7adde))
+
 # [2.0.0](https://github.com/CLCInc/prettier-config-clc/compare/v1.0.0...v2.0.0) (2020-01-03)
 
 
