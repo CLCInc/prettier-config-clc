@@ -7,15 +7,8 @@ module.exports = {
   importOrder: [
     // All packages that start with @ followed by packages that start with any letter"
     "^@?\\w",
-
-    // Parent imports. `..`
-    "^\\.\\.(?!/?$)",
-    "^\\.\\./?$",
-
-    // Other relative imports
-    "^\\./(?=.*/)(?!/?$)",
-    "^\\.(?!/?$)",
-    "^\\./?$",
+    // File Imports
+    "^[./]",
   ],
   importOrderSeparation: true,
 };
