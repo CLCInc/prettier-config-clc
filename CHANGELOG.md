@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/CLCInc/prettier-config-clc/compare/v2.1.0...v2.1.1) (2021-03-18)
+
+
+### Bug Fixes
+
+* update dep dependencies for babel parse errors [DEV-1569] ([9487d4c](https://github.com/CLCInc/prettier-config-clc/commit/9487d4c449e21fa92b92066d6f6618fa6f9fbf37))
+
 # [2.1.0](https://github.com/CLCInc/prettier-config-clc/compare/v2.0.1...v2.1.0) (2021-03-18)
 
 
