@@ -12,8 +12,8 @@ To add this file to your own project, add the following to your project's `packa
 ```js
   "prettier": "@clc_inc/prettier-config-clc"
   "devDependencies": {
-    "prettier": "^1.19.1",
-    "@clc_inc/prettier-config-clc": "^2.0.0",
+    "prettier": "^2.2.1",
+    "@clc_inc/prettier-config-clc": "^2.1.1",
     "@trivago/prettier-plugin-sort-imports": "^1.4.4"
   }
 ```
