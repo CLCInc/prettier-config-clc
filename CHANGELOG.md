@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/CLCInc/prettier-config-clc/compare/v2.0.1...v2.1.0) (2021-03-18)
+
+
+### Features
+
+* add import order autoformat [DEV-1569] ([7530f5e](https://github.com/CLCInc/prettier-config-clc/commit/7530f5e0b4fae18d0f0d93b633f50a92891d91cb))
+
 ## [2.0.1](https://github.com/CLCInc/prettier-config-clc/compare/v2.0.0...v2.0.1) (2020-08-17)
 
 
