@@ -3,6 +3,7 @@
 Shareable prettier configuration.
 
 ## Builds and Deployment
+
 ![master](https://img.shields.io/circleci/build/github/CLCInc/prettier-config-clc/master?label=master&style=flat-square&token=0963d0715ce24f1c526725250f9ae7ed1b42e88b)
 ![Semantic Release](https://img.shields.io/badge/deploy-semantic%20release-blueviolet?style=flat-square&link=https://github.com/CLCInc/documentation/wiki/Git-Commit-Guidelines)
 
@@ -12,7 +13,8 @@ To add this file to your own project, add the following to your project's `packa
   "prettier": "@clc_inc/prettier-config-clc"
   "devDependencies": {
     "prettier": "^1.19.1",
-    "@clc_inc/prettier-config-clc": "^2.0.0"
+    "@clc_inc/prettier-config-clc": "^2.0.0",
+    "@trivago/prettier-plugin-sort-imports": "^1.4.4"
   }
 ```
 
