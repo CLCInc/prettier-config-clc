@@ -7,7 +7,6 @@ defaults: &defaults
     - image: ${DOCKER_NODE_IMAGE}
 
 jobs:
-        
   publish:
     <<: *defaults
     steps:
@@ -30,6 +29,8 @@ workflows:
   build_publish:
     jobs:
       - publish:
+          context:
+            - MSA
           filters:
             branches:
               only:
