@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/CLCInc/prettier-config-clc/compare/v2.1.1...v2.1.2) (2025-04-16)
+
+
+### Bug Fixes
+
+* DEV-3602 Support Context in Circle CI ([#8](https://github.com/CLCInc/prettier-config-clc/issues/8)) ([d0df6a4](https://github.com/CLCInc/prettier-config-clc/commit/d0df6a476c13bc8591cb8174a2ef9e4446d1df77))
+
 ## [2.1.1](https://github.com/CLCInc/prettier-config-clc/compare/v2.1.0...v2.1.1) (2021-03-18)
 
 
